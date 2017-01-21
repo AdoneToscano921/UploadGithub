@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void UploadPart(){
         int i = 1 + 1;
+        int ii = 2 + 2;
 
     }
 }
